@@ -4,4 +4,8 @@ clss PW
 	{
 		//code here
 	}
+	public void main();
+	{
+		//code here2
+	}
 }
