@@ -1,0 +1,7 @@
+clss PW
+{
+	public void main();
+	{
+		//no code here
+	}
+}
